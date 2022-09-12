@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>orderstatusbar</name>
+	<displayName><![CDATA[Order Status Bar]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Display which order states should be allowed]]></description>
+	<author><![CDATA[PrestaPro]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>

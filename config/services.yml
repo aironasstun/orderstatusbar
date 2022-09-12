@@ -1,0 +1,5 @@
+services:
+  custom_controller:
+    class: orderstatusbar\Controller\Admin\OrderStatusBarController
+    decorates: PrestaShopBundle\Controller\Admin\Sell\Order\OrderController
+    arguments: ['@custom_controller.inner']

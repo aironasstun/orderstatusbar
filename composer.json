@@ -1,0 +1,9 @@
+{
+  "name" : "aironasstunzenas/orderstatusbar",
+  "autoload" : {
+    "psr-4" : {"orderstatusbar\\": "src/"},
+    "classmap" : ["orderstatusbar.php"],
+    "config" : {"prepend-atuoloader" : false },
+    "type": "prestashop-module"
+  }
+}
